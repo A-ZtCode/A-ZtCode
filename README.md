@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/AltheaZeta/mercyaigbea/blob/main/Gif.gif"  width="400" /> 
+  <img src="https://github.com/AltheaZeta/AltheaZeta/assets/86517586/c8a854b1-a9ef-49b5-a34a-20fcba7a8dc7"  width="500" /> 
 </div>
 
 <h1 align="center">Hello 👋, I'm Mercy Azeta</h1>
