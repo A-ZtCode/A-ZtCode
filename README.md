@@ -18,7 +18,7 @@ With a knack for crafting efficient and reliable solutions, I blend my knowledge
 I'm currently diving deeper into Golang, enhancing my backend prowess and embracing the concurrency it offers. My curiosity fuels my learning and the GitHub community is my playground for collaborative learning and growth.
 
 ---
-- 🌐 Connect with me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/mercyoaa/)
+- 🌐 Connect with me:[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/mercyoaa/)
   
 - 📄 Know about my experiences: [![MyCV Badge](https://img.shields.io/badge/MyCV-green?style=for-the-badge&logo=readme&logoColor=white)](https://acrobat.adobe.com/id/urn:aaid:sc:EU:cb901bad-79a0-4852-ac52-f237037692d4)
   
