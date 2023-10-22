@@ -39,7 +39,7 @@ I'm currently diving deeper into Golang, enhancing my backend prowess and embrac
 ---
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=altheazeta&rank=-C,-?&row=2&column=2&theme=algolia" alt="altheazeta" /></a> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=altheazeta&show_icons=true&theme=dark&locale=en" alt="altheazeta" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=altheazeta&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dark&locale=en" alt="altheazeta" /></p>
 
 
 Feel free to explore my repositories and share your thoughts or questions. Let's code, learn, and grow together!
