@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/AltheaZeta/mercyaigbea/blob/main/gifgif%20(1).gif)
 <h1 align="center">Hello 👋, I'm Mercy Aigbe Azeta</h1>
-<h3 align="center">A Full-Stack Developer and Data Scientist.</h3>
+<h3 align="center">Full-Stack Developer and Data Scientist.</h3>
 <img align="right" alt="Coding" width="500" src="https://github.com/AltheaZeta/mercyaigbea/blob/main/Gif.gif">
 
 
