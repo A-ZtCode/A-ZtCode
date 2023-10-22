@@ -43,7 +43,3 @@ I'm currently diving deeper into Golang, enhancing my backend prowess and embrac
 
 
 Feel free to explore my repositories and share your thoughts or questions. Let's code, learn, and grow together!
-
----
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31pfa5ty25hhmjbwfmxwubvlytnq&unique={true|1|on|yes})
-
