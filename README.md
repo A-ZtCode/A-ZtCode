@@ -2,7 +2,7 @@
   <img src="https://github.com/AltheaZeta/AltheaZeta/blob/main/Gif.gif"  width="500" /> 
 </div>
 
-<h1 align="center">Hello 👋, I'm Mercy Azeta</h1>
+<h1 align="center">Hello 👋, I'm Mercy</h1>
 <h3 align="center">Full-Stack Java Developer and Data Scientist.</h3>
 
 
