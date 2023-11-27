@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hello 👋, I'm Mercy Azeta</h1>
-<h3 align="center">Full-Stack Developer and Data Scientist.</h3>
+<h3 align="center">Full-Stack Java Developer and Data Scientist.</h3>
 
 
 
@@ -12,7 +12,7 @@
 
 ### :woman_technologist: About Me :
 
-A Full-Stack Developer and Data Scientist Building Bridges Between Data and Web Technologies.
+A Full-Stack Java Developer and Data Scientist Building Bridges Between Data and Web Technologies.
 With a knack for crafting efficient and reliable solutions, I blend my knowledge of web development and data science to create impactful projects. Whether it's leveraging Python for data analysis, or employing Java and MySQL for responsive web applications, every project is a step towards solving real-world problems.
 
 I'm currently diving deeper into Golang, enhancing my backend prowess and embracing the concurrency it offers. My curiosity fuels my learning and the GitHub community is my playground for collaborative learning and growth.
@@ -22,11 +22,11 @@ I'm currently diving deeper into Golang, enhancing my backend prowess and embrac
   
 - 📄 Know about my experiences: [![MyCV Badge](https://img.shields.io/badge/MyCV-green?style=for-the-badge&logo=readme&logoColor=white)](https://acrobat.adobe.com/id/urn:aaid:sc:EU:cb901bad-79a0-4852-ac52-f237037692d4)
   
-- 🌱 I’m currently learning **React, MongoDB, Golang**
+- 🌱 I’m currently learning about **React, MongoDB, DevOps Engineering**
 
-- 💬 Let's talk about **Python, Data Science, and Java** - I'm all ears!
+- 💬 Let's talk about **Java, Python, Data Science and Software Engineering** - I'm all ears!
   
-- 🔭 Open for collaborations in data science and full-stack projects.
+- 🔭 Open for collaborations in Data Science and Software Development projects.
 
 - 🤝 Happy to mentor and be mentored in this ever-evolving field.
 ---
@@ -39,7 +39,6 @@ I'm currently diving deeper into Golang, enhancing my backend prowess and embrac
 ---
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=altheazeta&rank=-C,-?&row=2&column=2&theme=algolia" alt="altheazeta" /></a> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=altheazeta&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=dark&locale=en" alt="altheazeta" /></p>
 
 
 Feel free to explore my repositories and share your thoughts or questions. Let's code, learn, and grow together!
