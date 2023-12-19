@@ -20,7 +20,7 @@ I'm currently diving deeper into Golang, enhancing my backend prowess and embrac
 ---
 - 🌐 Connect with me:[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/mercyoaa/)
   
-- 📄 Know about my experiences: [![MyCV Badge](https://img.shields.io/badge/MyCV-green?style=for-the-badge&logo=readme&logoColor=white)](https://acrobat.adobe.com/id/urn:aaid:sc:EU:a92835bf-cdda-496f-bfb5-0c37f79e9c90)
+- 📄 Know about my experiences: [![MyCV Badge](https://img.shields.io/badge/MyCV-green?style=for-the-badge&logo=readme&logoColor=white)](https://acrobat.adobe.com/id/urn:aaid:sc:eu:a92835bf-cdda-496f-bfb5-0c37f79e9c90)
   
 - 🌱 I’m currently learning about **React, MongoDB, DevOps Engineering**
 
