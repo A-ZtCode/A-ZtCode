@@ -3,19 +3,19 @@
 </div>
 
 <h1 align="center">Hello 👋, I'm Mercy</h1>
-<h3 align="center">Software Developer and Data Scientist.</h3>
+<h3 align="center">Data Scientist and Software Developer.</h3>
 
 
 
 
 ---
 
-### :woman_technologist: About Me :
+### :woman_technologist: About Me : 
 
-A Software Developer and Data Scientist Building Bridges Between Data and Web Technologies.
+A Data Scientist and Software Developer Building Bridges Between Data and Web Technologies.
 With a knack for crafting efficient and reliable solutions, I blend my knowledge of web development and data science to create impactful projects. Whether it's leveraging Python for data analysis, or employing Java and MySQL for responsive web applications, every project is a step towards solving real-world problems.
 
-I'm currently diving deeper into Golang, enhancing my backend prowess and embracing the concurrency it offers. My curiosity fuels my learning and the GitHub community is my playground for collaborative learning and growth.
+I'm currently diving deeper into AI - LLMs, React, and Next JS. My curiosity fuels my learning and the GitHub community is my playground for collaborative learning and growth.
 
 ---
 - 🌐 Connect with me:[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/mercyoaa/)
